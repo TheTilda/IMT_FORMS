@@ -1,0 +1,14 @@
+C:\Users\CifronPro\source\repos\IMT28.11.2023\IMT28.11.2023\bin\Debug\IMT28.11.2023.exe.config
+C:\Users\CifronPro\source\repos\IMT28.11.2023\IMT28.11.2023\bin\Debug\IMT28.11.2023.exe
+C:\Users\CifronPro\source\repos\IMT28.11.2023\IMT28.11.2023\bin\Debug\IMT28.11.2023.pdb
+C:\Users\CifronPro\source\repos\IMT28.11.2023\IMT28.11.2023\obj\Debug\IMT28.11.2023.csproj.AssemblyReference.cache
+C:\Users\CifronPro\source\repos\IMT28.11.2023\IMT28.11.2023\obj\Debug\IMT28._11._2023.Form1.resources
+C:\Users\CifronPro\source\repos\IMT28.11.2023\IMT28.11.2023\obj\Debug\IMT28._11._2023.Properties.Resources.resources
+C:\Users\CifronPro\source\repos\IMT28.11.2023\IMT28.11.2023\obj\Debug\IMT28.11.2023.csproj.GenerateResource.cache
+C:\Users\CifronPro\source\repos\IMT28.11.2023\IMT28.11.2023\obj\Debug\IMT28.11.2023.csproj.CoreCompileInputs.cache
+C:\Users\CifronPro\source\repos\IMT28.11.2023\IMT28.11.2023\obj\Debug\IMT28.11.2023.exe
+C:\Users\CifronPro\source\repos\IMT28.11.2023\IMT28.11.2023\obj\Debug\IMT28.11.2023.pdb
+C:\Users\CifronPro\source\repos\IMT28.11.2023\IMT28.11.2023\bin\Debug\IMT28.11.2023.exe.manifest
+C:\Users\CifronPro\source\repos\IMT28.11.2023\IMT28.11.2023\bin\Debug\IMT28.11.2023.application
+C:\Users\CifronPro\source\repos\IMT28.11.2023\IMT28.11.2023\obj\Debug\IMT28.11.2023.exe.manifest
+C:\Users\CifronPro\source\repos\IMT28.11.2023\IMT28.11.2023\obj\Debug\IMT28.11.2023.application
